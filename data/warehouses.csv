@@ -1,0 +1,8 @@
+warehouse_id,warehouse_name,city,country,region,capacity_units
+WH01,Gothenburg Distribution Center,Gothenburg,Sweden,Europe,63986
+WH02,Bangalore Distribution Center,Bangalore,India,South Asia,111858
+WH03,Greensboro Distribution Center,Greensboro,USA,North America,179312
+WH04,Curitiba Distribution Center,Curitiba,Brazil,South America,62666
+WH05,Shanghai Distribution Center,Shanghai,China,East Asia,88660
+WH06,Wroclaw Distribution Center,Wroclaw,Poland,Europe,184633
+WH07,Monterrey Distribution Center,Monterrey,Mexico,North America,76854

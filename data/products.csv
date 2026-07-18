@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_cost,reorder_point,safety_stock
+PRD0001,Tires Part 1,Tires & Wheels,1004.53,77,154
+PRD0002,Chassis Part 2,Chassis & Structural,3430.15,317,181
+PRD0003,Engine Part 3,Engine Components,374.21,456,81
+PRD0004,Electrical Part 4,Electrical Systems,319.66,148,191
+PRD0005,Engine Part 5,Engine Components,1648.26,84,120
+PRD0006,Chassis Part 6,Chassis & Structural,3892.51,180,20
+PRD0007,Hydraulics Part 7,Hydraulics,1326.94,304,161
+PRD0008,Chassis Part 8,Chassis & Structural,2076.42,442,34
+PRD0009,Engine Part 9,Engine Components,410.59,429,198
+PRD0010,Electrical Part 10,Electrical Systems,67.03,280,71
+PRD0011,Cabin Part 11,Cabin & Interior,702.13,437,170
+PRD0012,Tires Part 12,Tires & Wheels,938.27,192,190
+PRD0013,Chassis Part 13,Chassis & Structural,971.63,62,179
+PRD0014,Electrical Part 14,Electrical Systems,555.02,292,105
+PRD0015,Tires Part 15,Tires & Wheels,1330.26,219,64
+PRD0016,Hydraulics Part 16,Hydraulics,602.58,183,47
+PRD0017,Hydraulics Part 17,Hydraulics,1466.24,93,103
+PRD0018,Tires Part 18,Tires & Wheels,1347.43,380,147
+PRD0019,Hydraulics Part 19,Hydraulics,1472.65,397,148
+PRD0020,Electrical Part 20,Electrical Systems,236.02,495,140
+PRD0021,Chassis Part 21,Chassis & Structural,3308.46,282,22
+PRD0022,Electrical Part 22,Electrical Systems,45.98,460,156
+PRD0023,Electrical Part 23,Electrical Systems,456.95,274,70
+PRD0024,Tires Part 24,Tires & Wheels,462.57,201,78
+PRD0025,Cabin Part 25,Cabin & Interior,428.45,145,199
+PRD0026,Cabin Part 26,Cabin & Interior,474.54,491,71
+PRD0027,Chassis Part 27,Chassis & Structural,1138.13,344,149
+PRD0028,Tires Part 28,Tires & Wheels,1091.42,150,132
+PRD0029,Cabin Part 29,Cabin & Interior,1197.42,236,132
+PRD0030,Hydraulics Part 30,Hydraulics,1760.25,269,73
+PRD0031,Cabin Part 31,Cabin & Interior,97.68,273,148
+PRD0032,Hydraulics Part 32,Hydraulics,507.26,179,72
+PRD0033,Chassis Part 33,Chassis & Structural,2059.92,209,179
+PRD0034,Electrical Part 34,Electrical Systems,549.72,488,142
+PRD0035,Electrical Part 35,Electrical Systems,248.26,343,43
+PRD0036,Cabin Part 36,Cabin & Interior,596.14,147,158
+PRD0037,Hydraulics Part 37,Hydraulics,1487.93,193,116
+PRD0038,Engine Part 38,Engine Components,504.19,236,89
+PRD0039,Engine Part 39,Engine Components,1785.16,308,167
+PRD0040,Engine Part 40,Engine Components,916.0,469,166
+PRD0041,Electrical Part 41,Electrical Systems,651.59,196,167
+PRD0042,Tires Part 42,Tires & Wheels,996.15,357,180
+PRD0043,Electrical Part 43,Electrical Systems,381.91,88,101
+PRD0044,Tires Part 44,Tires & Wheels,1269.55,316,197
+PRD0045,Hydraulics Part 45,Hydraulics,1671.98,347,118
+PRD0046,Cabin Part 46,Cabin & Interior,320.55,193,109
+PRD0047,Engine Part 47,Engine Components,2458.1,109,132
+PRD0048,Hydraulics Part 48,Hydraulics,511.15,353,159
+PRD0049,Hydraulics Part 49,Hydraulics,1049.1,209,28
+PRD0050,Cabin Part 50,Cabin & Interior,377.91,196,67
+PRD0051,Hydraulics Part 51,Hydraulics,1539.32,453,171
+PRD0052,Cabin Part 52,Cabin & Interior,521.14,210,171
+PRD0053,Chassis Part 53,Chassis & Structural,3433.53,162,183
+PRD0054,Cabin Part 54,Cabin & Interior,1084.35,389,131
+PRD0055,Engine Part 55,Engine Components,388.46,148,172
+PRD0056,Tires Part 56,Tires & Wheels,87.19,433,129
+PRD0057,Tires Part 57,Tires & Wheels,859.2,359,182
+PRD0058,Engine Part 58,Engine Components,1682.11,218,180
+PRD0059,Tires Part 59,Tires & Wheels,105.67,447,40
+PRD0060,Cabin Part 60,Cabin & Interior,263.86,433,155
+PRD0061,Chassis Part 61,Chassis & Structural,3427.05,450,147
+PRD0062,Tires Part 62,Tires & Wheels,887.0,492,134
+PRD0063,Chassis Part 63,Chassis & Structural,2618.06,71,177
+PRD0064,Engine Part 64,Engine Components,2436.57,414,70
+PRD0065,Chassis Part 65,Chassis & Structural,3589.78,332,46
+PRD0066,Hydraulics Part 66,Hydraulics,1451.18,335,116
+PRD0067,Electrical Part 67,Electrical Systems,536.14,497,80
+PRD0068,Hydraulics Part 68,Hydraulics,948.63,53,54
+PRD0069,Engine Part 69,Engine Components,1956.1,66,191
+PRD0070,Tires Part 70,Tires & Wheels,1415.45,95,136
+PRD0071,Tires Part 71,Tires & Wheels,1334.56,429,56
+PRD0072,Chassis Part 72,Chassis & Structural,3727.61,351,114
+PRD0073,Cabin Part 73,Cabin & Interior,1158.53,165,179
+PRD0074,Electrical Part 74,Electrical Systems,771.98,305,86
+PRD0075,Cabin Part 75,Cabin & Interior,253.22,330,73
+PRD0076,Engine Part 76,Engine Components,1785.67,409,193
+PRD0077,Tires Part 77,Tires & Wheels,217.99,337,194
+PRD0078,Chassis Part 78,Chassis & Structural,3962.2,499,146
+PRD0079,Tires Part 79,Tires & Wheels,816.03,435,36
+PRD0080,Cabin Part 80,Cabin & Interior,1027.48,442,62
+PRD0081,Cabin Part 81,Cabin & Interior,868.16,88,189
+PRD0082,Electrical Part 82,Electrical Systems,736.05,404,69
+PRD0083,Electrical Part 83,Electrical Systems,785.68,62,79
+PRD0084,Chassis Part 84,Chassis & Structural,2143.1,362,55
+PRD0085,Electrical Part 85,Electrical Systems,726.53,370,27
+PRD0086,Cabin Part 86,Cabin & Interior,860.24,449,161
+PRD0087,Cabin Part 87,Cabin & Interior,1074.61,192,111
+PRD0088,Engine Part 88,Engine Components,1510.33,337,105
+PRD0089,Cabin Part 89,Cabin & Interior,434.09,235,82
+PRD0090,Chassis Part 90,Chassis & Structural,3931.0,199,77
+PRD0091,Hydraulics Part 91,Hydraulics,1562.69,354,199
+PRD0092,Engine Part 92,Engine Components,241.26,320,73
+PRD0093,Engine Part 93,Engine Components,1412.14,150,27
+PRD0094,Chassis Part 94,Chassis & Structural,3125.98,157,24
+PRD0095,Chassis Part 95,Chassis & Structural,1937.61,311,128
+PRD0096,Electrical Part 96,Electrical Systems,207.17,399,66
+PRD0097,Engine Part 97,Engine Components,1793.85,473,71
+PRD0098,Electrical Part 98,Electrical Systems,154.16,419,143
+PRD0099,Cabin Part 99,Cabin & Interior,874.64,196,164
+PRD0100,Engine Part 100,Engine Components,1087.23,324,111
+PRD0101,Engine Part 101,Engine Components,1898.5,395,136
+PRD0102,Tires Part 102,Tires & Wheels,194.84,176,156
+PRD0103,Hydraulics Part 103,Hydraulics,1270.45,178,77
+PRD0104,Engine Part 104,Engine Components,2300.75,288,53
+PRD0105,Cabin Part 105,Cabin & Interior,333.36,167,67
+PRD0106,Electrical Part 106,Electrical Systems,197.26,286,136
+PRD0107,Electrical Part 107,Electrical Systems,588.91,238,88
+PRD0108,Tires Part 108,Tires & Wheels,948.64,296,95
+PRD0109,Hydraulics Part 109,Hydraulics,1062.26,484,105
+PRD0110,Cabin Part 110,Cabin & Interior,76.41,269,88
+PRD0111,Electrical Part 111,Electrical Systems,120.98,143,163
+PRD0112,Chassis Part 112,Chassis & Structural,571.77,481,104
+PRD0113,Cabin Part 113,Cabin & Interior,599.76,338,120
+PRD0114,Cabin Part 114,Cabin & Interior,514.3,59,88
+PRD0115,Hydraulics Part 115,Hydraulics,1607.36,229,157
+PRD0116,Electrical Part 116,Electrical Systems,578.24,491,115
+PRD0117,Cabin Part 117,Cabin & Interior,1036.4,374,23
+PRD0118,Tires Part 118,Tires & Wheels,954.51,385,21
+PRD0119,Tires Part 119,Tires & Wheels,117.65,433,179
+PRD0120,Electrical Part 120,Electrical Systems,848.6,201,159

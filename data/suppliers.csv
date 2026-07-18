@@ -1,0 +1,41 @@
+supplier_id,supplier_name,region,country,reliability_tier,base_on_time_rate,lead_time_days_avg,contract_start
+SUP001,"Rodriguez, Figueroa and Sanchez",North America,USA,B,0.85,33,2022-12-16
+SUP002,Rhodes PLC,South Asia,India,A,0.95,12,2022-10-20
+SUP003,Johnson-Davis,Europe,Sweden,B,0.85,43,2023-03-28
+SUP004,"Johnson, Gonzalez and Santos",North America,Canada,B,0.85,27,2024-03-04
+SUP005,Cole LLC,South America,Brazil,A,0.95,28,2024-12-19
+SUP006,Blake and Sons,South America,Argentina,A,0.95,44,2024-08-19
+SUP007,Ramirez-Lewis,North America,USA,B,0.85,26,2024-10-30
+SUP008,Davis Inc,North America,USA,A,0.95,28,2023-08-14
+SUP009,Munoz-Roman,Europe,Germany,C,0.68,42,2024-09-23
+SUP010,"Martinez, Nielsen and Miller",South America,Brazil,A,0.95,25,2023-06-03
+SUP011,"Montgomery, Hensley and Ray",South America,Argentina,B,0.85,26,2024-08-26
+SUP012,Stanley LLC,Europe,France,A,0.95,29,2025-06-29
+SUP013,Delacruz Group,South America,Argentina,A,0.95,32,2023-05-17
+SUP014,"Flowers, Martin and Kelly",North America,USA,C,0.68,19,2024-07-19
+SUP015,"Zuniga, Wong and Lynch",East Asia,South Korea,B,0.85,7,2023-01-20
+SUP016,"Sanchez, Ford and Nelson",South Asia,India,C,0.68,11,2025-04-25
+SUP017,"Hawkins, Cohen and Cameron",Europe,Poland,A,0.95,43,2024-11-12
+SUP018,Underwood LLC,North America,USA,A,0.95,29,2023-09-29
+SUP019,Clark PLC,East Asia,China,C,0.68,13,2025-03-02
+SUP020,Lewis-Porter,South Asia,Bangladesh,A,0.95,6,2025-03-11
+SUP021,"Ellis, Baker and Wright",South America,Argentina,B,0.85,11,2024-03-22
+SUP022,Burgess-Patterson,North America,Canada,B,0.85,12,2024-04-15
+SUP023,Robinson-Bright,East Asia,Japan,A,0.95,18,2024-01-25
+SUP024,Campos Inc,North America,Mexico,B,0.85,44,2022-12-31
+SUP025,Conner Group,North America,Canada,B,0.85,10,2024-04-30
+SUP026,James-Ferrell,South Asia,Bangladesh,A,0.95,8,2024-02-16
+SUP027,"Valencia, Smith and Le",South America,Brazil,A,0.95,22,2024-08-01
+SUP028,"Potter, Mack and Peterson",North America,USA,B,0.85,38,2023-06-03
+SUP029,Chavez Ltd,Europe,Poland,B,0.85,40,2025-03-02
+SUP030,Stanton-Gill,North America,USA,B,0.85,19,2024-01-23
+SUP031,Harrell LLC,North America,Mexico,A,0.95,27,2025-01-23
+SUP032,"Lynch, Hernandez and Farmer",South Asia,Bangladesh,B,0.85,44,2024-02-27
+SUP033,"Sellers, George and Burns",South Asia,India,C,0.68,22,2022-11-16
+SUP034,Koch-Decker,South Asia,Bangladesh,B,0.85,28,2023-06-18
+SUP035,Allen PLC,Europe,Poland,B,0.85,33,2025-05-18
+SUP036,Dennis Inc,North America,Canada,C,0.68,5,2025-06-21
+SUP037,"Cannon, Anderson and Alvarez",Europe,Sweden,A,0.95,13,2024-03-10
+SUP038,Rose-Obrien,Europe,France,B,0.85,12,2025-06-06
+SUP039,"Campos, Vaughn and Marquez",East Asia,South Korea,A,0.95,15,2023-09-26
+SUP040,"Santos, Kim and Holmes",South America,Brazil,A,0.95,12,2022-11-26
